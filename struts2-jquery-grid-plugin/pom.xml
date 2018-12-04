@@ -67,6 +67,7 @@
                                 <jsSourceFile>plugins/grid.celledit.js</jsSourceFile>
                                 <jsSourceFile>plugins/grid.filter.js</jsSourceFile>
                                 <jsSourceFile>plugins/grid.addons.js</jsSourceFile>
+                                <jsSourceFile>plugins/ui.multiselect.js</jsSourceFile>
                             </jsSourceFiles>
                         </configuration>
                         <goals>

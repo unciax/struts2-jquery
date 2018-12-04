@@ -572,6 +572,7 @@
 					"js/base/dialog" + self.minSuffix + ".js"
 				]);
             }
+            self.require("js/plugins/ui.multiselect" + self.minSuffix + ".js");
 			self.require("js/plugins/jquery.jqGrid" + self.minSuffix + ".js");
 			self.requireCss("themes/ui.jqgrid.css");
 			if(o.sortable || o.sortableRows) {
